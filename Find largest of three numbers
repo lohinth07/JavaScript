@@ -1,0 +1,5 @@
+let a = 20;
+let b = 50;
+let c = 35;
+let largest = Math.max(a, b, c);
+console.log("Largest:", largest);
