@@ -1,0 +1,5 @@
+let arr = [10, 5, 30, 2, 50];
+let largest = Math.max(...arr);
+let smallest = Math.min(...arr);
+console.log("Largest:", largest);
+console.log("Smallest:", smallest);
